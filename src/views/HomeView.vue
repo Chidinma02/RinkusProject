@@ -2,6 +2,7 @@
 import TheWelcome from '../components/TheWelcome.vue'
 import firstsection from '../components/firstsection.vue';
 import secondsection from '../components/secondsection.vue';
+import thirdsection from '../components/thirdsection.vue';
 </script>
 
 <template>
@@ -9,6 +10,8 @@ import secondsection from '../components/secondsection.vue';
     <TheWelcome /> 
     <firstsection></firstsection>
     <secondsection></secondsection>
+    <thirdsection></thirdsection>
+    
   </main>
 </template>
 <style>
